@@ -2,7 +2,7 @@
 
 <html>
     <style>
-.button {
+a.button {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
@@ -13,7 +13,7 @@
     font-size: 16px;
 }
     </style>
-    <a href="http://google.com" class="button">Styled Button</button>
+    <a href="http://google.com" class="button">Go to Google</a>
     </html>
 
 
