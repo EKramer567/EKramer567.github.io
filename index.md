@@ -1,7 +1,14 @@
-/*[Click me](http://www.google.com){: .btn}*/
+<p align="center">
+    Greetings, and welcome to my site!
+    I'm currently doing some experiments with putting games made in Unity (and exported in WebGL form) in to web pages you can access here
+    Check back later and see what I have to show you!
+    </p>
+
 <html>
     <style>
-        #centered_object { justify-content: center; }
+.centerAlignObject{
+        text-align: center;
+        }
 a.button {
     background-color: #64B70E; /* Green */
     border: none;
@@ -12,14 +19,21 @@ a.button {
     display: inline-block;
     font-size: 16px;
 }
-    </style>
-    
-    <div class="centerAlignObject" id="centered_object">
-    
-    <a href="http://google.com" class="button">Go to Google</a>
-    
-    </div>
+     </style>
+   
+<div class ="centerAlignObject">
+<a href="http://google.com" class="button">Go to Google</a>
+</div>
+
 </html>
 
-<p align="center">This is some centered Text (hopefully)</p>
+<p align="center">
+    
+    Put a Quadcopter Simulator Button here
+    
+
+
+
+
+</p>
 
