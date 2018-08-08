@@ -1,5 +1,5 @@
 //[Click me](http://www.google.com){: .btn}
-
+<html>
     <style>
 a.button {
     background-color: #7DD125; /* Green */
@@ -13,5 +13,7 @@ a.button {
 }
     </style>
     <a href="http://google.com" class="button">Go to Google</a>
+</html>
 
+<p align="center">This is some centered Text (hopefully)</p>
 
