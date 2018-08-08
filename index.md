@@ -1,5 +1,7 @@
 [Click me](http://www.google.com){: .btn}
 
+<html>
+    <style>
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
@@ -10,5 +12,8 @@
     display: inline-block;
     font-size: 16px;
 }
+    </style>
+    <button class="button" onclick="http://www.google.com">Styled Button</button>
+    </html>
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+
