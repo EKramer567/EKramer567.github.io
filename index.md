@@ -1,9 +1,8 @@
-[Click me](http://www.google.com){: .btn}
+//[Click me](http://www.google.com){: .btn}
 
-<html>
     <style>
 a.button {
-    background-color: #4CAF50; /* Green */
+    background-color: #7DD125; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -14,6 +13,5 @@ a.button {
 }
     </style>
     <a href="http://google.com" class="button">Go to Google</a>
-    </html>
 
 
