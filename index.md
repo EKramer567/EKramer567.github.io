@@ -22,7 +22,7 @@ a.button {
      </style>
    
 <div class ="centerAlignObject">
-<a href="/assets/unity/Quadcoptersim/qcsim.md" class="button">Go to My Game</a>
+<a href="/assets/unity/Quadcoptersim/index.html" class="button">Go to My Game</a>
 </div>
 
 </html>
