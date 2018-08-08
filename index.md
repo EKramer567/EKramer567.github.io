@@ -13,7 +13,7 @@
     font-size: 16px;
 }
     </style>
-    <button class="button" onclick="http://www.google.com">Styled Button</button>
+    <a href="http://google.com" class="button">Styled Button</button>
     </html>
 
 
