@@ -26,6 +26,8 @@ img.autoscale{
      </style>
 </html>
 ---
+<div style="background-color:#3d3d3d; padding:10px;">
+
 <div class ="centerAlignObject">
     <h1>Quadcopter Simulator</h1>
     <img src="QuadcopterSimPic.png"><br>
@@ -40,8 +42,12 @@ img.autoscale{
 Before I move on to my next project, I'm going to add keyboard controls for the sake of this site, and I want to fix one bug that I've been trying to fix forever: if the copter's Yaw goes near 180 degrees relative to its starting rotation, <i>the PID balancing makes the copter flip out unexpectedly</i>. I think I will also mess around with the terrain tool and maybe get some free tree assets to put in there just to make it look a bit better. Eventually I want to figure out how to allow the use of WebVR on these pages.
 </p>
 </div>
+</div>
+
 ---
 ---
+<div style="background-color:#3d3d3d; padding:10px;">
+
 <div class ="centerAlignObject">
     <h1>Hero Landing!</h1><br>
     <img src="HLscreenshot.png" width="300" height="475"><br>
@@ -52,5 +58,7 @@ Before I move on to my next project, I'm going to add keyboard controls for the 
 <i>Hero Landing!</i> is a small mobile game that I completed and published to the Google Play Store myself, which you can install and play on an Android phone. I chose to keep its repository private, since it is a monetized published game. If you'd like to see some snippets of the code that went in to <i>Hero Landing!</i>, please email me and I can get those for you.
 </p>
 </div>
+</div>
+
 ---
 ---
