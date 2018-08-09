@@ -1,6 +1,10 @@
 <p align="center">
-    Greetings, and welcome to my site!
+    Greetings, and welcome to my site!<br>
     Below is a compilation of projects I have completed and some I am currently working on.
+    <br><br>
+    Contact info:<br>
+    ekramer567@gmail.com
+    LinkedIn: www.linkedin.com/in/ekramer567
     </p>
 
 <html>
