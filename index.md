@@ -14,6 +14,7 @@
         }
 a.button {
     background-color: #64B70E; /* Green */
+    width: 100%
     border: none;
     color: white;
     padding: 15px 32px;
