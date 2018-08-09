@@ -28,7 +28,7 @@ a.button {
 <a href="/assets/unity/Quadcoptersim/index.html" class="button">Play</a>
 </div>
 
-<div style="background-color:#919191; padding:20px;"> 
+<div style="background-color:##4c4c4c; padding:20px;"> 
 <p align="center">
     This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. At the moment, you can only control the copter with the USB controller, but for the moment I just want to get this up here. You can find the project on my github here: 
     <a href="https://github.com/EKramer567/Quadcopter-Simulator">LINK</a><br>
