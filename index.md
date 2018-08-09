@@ -22,18 +22,11 @@ a.button {
      </style>
    
 <div class ="centerAlignObject">
+    <img src="QuadcopterSimPic.png>
 <a href="/assets/unity/Quadcoptersim/index.html" class="button">Go to My Game</a>
 </div>
-
-</html>
-
 <p align="center">
-    
-    Put a Quadcopter Simulator Button here
-    
-
-
-
-
+    This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. At the moment, you can only control the copter with the USB controller, but for the moment I just want to get this up here. You can find the project on my github here: <a ref="https://github.com/EKramer567/Quadcopter-Simulator">LINK</a>
+Before I move on to my next project, I'm going to add keyboard controls for the sake of this site, and I want to fix one bug that I've been trying to fix forever: if the copter's Yaw goes near 180 degrees relative to its starting rotation, the PID balancing makes the copter flip out unexpectedly. I might also mess around with the terrain tool and maybe get some free tree assets to put in there just to make it look a bit better. Eventually I want to figure out how to allow the use of WebVR on these pages.
 </p>
-
+</html>
