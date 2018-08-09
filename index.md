@@ -3,7 +3,7 @@
     Below is a compilation of projects I have completed and some I am currently working on.
     <br><br>
     Contact info:<br>
-    ekramer567@gmail.com
+    ekramer567@gmail.com<br>
     LinkedIn: www.linkedin.com/in/ekramer567
     </p>
 
