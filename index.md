@@ -37,3 +37,14 @@ Before I move on to my next project, I'm going to add keyboard controls for the 
 </p>
 </div>
 ---
+<div class ="centerAlignObject">
+    <h1>Hero Landing!</h1>
+    <img src="HLscreenshot.png"><br>
+<a href="https://play.google.com/store/apps/details?id=com.EKramer.HeroEntranceTraining" class="button">Google Play Store Page</a>
+</div>
+<div style="background-color:#444444; padding:20px;"> 
+<p align="center">
+<i>Hero Landing!</i> is a small mobile game that I completed and published to the Google Play Store myself, which you can install and play on an Android phone. I chose to keep its repository private, since it is a monetized published game. If you'd like to see some snippets of the code that went in to <i>Hero Landing!</i>, please email me and I can get those for you.
+</p>
+</div>
+---
