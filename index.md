@@ -20,7 +20,7 @@ a.button {
 }
      </style>
 </html>
-
+---
 <div class ="centerAlignObject">
     <h1>Quadcopter Simulator</h1>
     <img src="QuadcopterSimPic.png"><br>
