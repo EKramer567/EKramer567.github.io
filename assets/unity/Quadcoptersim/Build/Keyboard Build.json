@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Quadcopter Simulator",
+"dataUrl": "Keyboard Build.data.unityweb",
+"asmCodeUrl": "Keyboard Build.asm.code.unityweb",
+"asmMemoryUrl": "Keyboard Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Keyboard Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
