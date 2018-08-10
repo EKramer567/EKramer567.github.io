@@ -1,16 +1,3 @@
-<p align="center">
-    Greetings, and welcome to my site!<br>
-    This site was created with Github Pages and Jekyll.<br>
-    You can see the repository for this site by clicking the "View on Github" button above!
-    <br><br>
-    Below is a compilation of projects I have completed and some I am currently working on.
-    I'm planning to put a lot of other small projects up here in the next few weeks.
-    <br><br>
-    Contact info:<br>
-    ekramer567@gmail.com<br>
-    LinkedIn: <a href="www.linkedin.com/in/ekramer567">www.linkedin.com/in/ekramer567</a>
-    </p>
-
 <html>
     <style>
 .centerAlignObject{
@@ -33,6 +20,21 @@ img.autoscale{
 }
      </style>
 </html>
+<div style="background-color:#444444; padding:10px;">
+<p align="center">
+    Greetings, and welcome to my site!<br>
+    This site was created with Github Pages and Jekyll.<br>
+    You can see the repository for this site by clicking the "View on Github" button above!
+    <br><br>
+    Below is a compilation of projects I have completed and some I am currently working on.
+    I'm planning to put a lot of other small projects up here in the next few weeks.
+    <br><br>
+    Contact info:<br>
+    ekramer567@gmail.com<br>
+    LinkedIn: <a href="www.linkedin.com/in/ekramer567">www.linkedin.com/in/ekramer567</a>
+    </p>
+</div>
+
 ---
 
 <div class ="centerAlignObject">
