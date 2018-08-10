@@ -31,7 +31,7 @@ img.autoscale{
     <br><br>
     Contact info:<br>
     ekramer567@gmail.com<br>
-    LinkedIn: <a href="www.linkedin.com/in/ekramer567">www.linkedin.com/in/ekramer567</a>
+    LinkedIn: <a href="https://www.linkedin.com/in/ekramer567">www.linkedin.com/in/ekramer567</a>
     </p>
 </div>
 
