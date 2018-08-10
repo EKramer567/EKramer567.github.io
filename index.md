@@ -39,7 +39,7 @@ img.autoscale{
 
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
-    This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. At the moment, you can only control the copter with the USB controller, but for the moment I just want to get this up here. You can find the project on my github here: 
+    This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. I made this with Unity using C#, and no plugins or asset store assets. At the moment, you can only control the copter with the USB controller, but for the moment I just want to get this up here. You can find the project on my github here: 
     <a href="https://github.com/EKramer567/Quadcopter-Simulator">LINK</a><br><br>
                                                    
 Before I move on to my next project, I'm going to add keyboard controls for the sake of this site, and I want to fix one bug that I've been trying to fix forever: if the copter's Yaw goes near 180 degrees relative to its starting rotation, <i>the PID balancing makes the copter flip out unexpectedly</i>. I think I will also mess around with the terrain tool and maybe get some free tree assets to put in there just to make it look a bit better. Eventually I want to figure out how to allow the use of WebVR on these pages.
@@ -56,7 +56,7 @@ Before I move on to my next project, I'm going to add keyboard controls for the 
 </div>
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
-<i>Hero Landing!</i> is a small mobile game that I completed and published to the Google Play Store myself, which you can install and play on an Android phone. I chose to keep its repository private, since it is a monetized published game. If you'd like to see some snippets of the code that went in to <i>Hero Landing!</i>, please email me and I can get those for you.
+<i>Hero Landing!</i> is a small mobile game that I completed and published to the Google Play Store myself. I made this with Unity using C#. I used plugins for ads and microtransactions, and SFX/Music from the asset store. I chose to keep its repository private, since it is a monetized published game. If you'd like to see some snippets of the code that went in to <i>Hero Landing!</i>, please email me and I can get those for you.
 </p>
 </div>
   
