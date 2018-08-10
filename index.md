@@ -48,7 +48,8 @@ img.autoscale{
     This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. I made this with Unity using C#, and no plugins or asset store assets. Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
     <a href="https://github.com/EKramer567/Quadcopter-Simulator">Quadcopter Simulator Repository</a><br><br>
                                                    
-Before I move on to my next project, I want to fix one bug that I've been trying to fix for a while: if the copter's Yaw goes near 180 degrees relative to its starting rotation, <i>the PID balancing makes the copter flip back toward zero degrees</i>. I think I will also mess around with the terrain tool and maybe get some free tree assets to put in there just to make it look a bit better. Eventually I want to figure out how to allow the use of WebVR on these pages.
+Before I move on to my next project, I want to fix one bug that I've been trying to fix for a while: if the copter's Yaw goes near 180 degrees relative to its starting rotation, <i>the PID balancing makes the copter flip back toward zero degrees</i>. If you have an idea what's causing that, I'm open to suggestions.<br>
+I think I will also mess around with the terrain tool and maybe get some free environment object assets to put in there just to make it look better. Eventually I want to figure out how to allow the use of WebVR, but that might be another project.
 </p>
 </div>
   
