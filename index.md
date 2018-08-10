@@ -16,7 +16,7 @@ a.button {
     background-color: #64B70E; /* Green */
     border: none;
     color: white;
-    padding: 15px 60px;
+    padding: 15px 120px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
