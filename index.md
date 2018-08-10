@@ -1,7 +1,8 @@
 <p align="center">
     Greetings, and welcome to my site!<br>
     This site was created with Github Pages and Jekyll.<br>
-    You can see the code for this site by clicking the "View on Github" button above!<br>
+    You can see the repository for this site by clicking the "View on Github" button above!
+    <br><br>
     Below is a compilation of projects I have completed and some I am currently working on.
     I'm planning to put a lot of other small projects up here in the next few weeks.
     <br><br>
