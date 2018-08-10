@@ -24,7 +24,7 @@ img.autoscale{
 <p align="center">
     Greetings, and welcome to my site!<br>
     This site was created with Github Pages and Jekyll.<br>
-    You can see the repository for this site by clicking the "View on Github" button above!
+    You can see the repository for this site by clicking the "View on GitHub" button above!
     <br><br>
     Below is a compilation of projects I have completed and some I am currently working on.
     I'm planning to put a lot of other small projects up here in the next few weeks.
@@ -45,7 +45,7 @@ img.autoscale{
 
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
-    This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. I made this with Unity using C#, and no plugins or asset store assets. Making this playable in a browser window required building it in WebGL form and adding the build to the repository for this site. You can find this project on my github here: 
+    This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. I made this with Unity using C#, and no plugins or asset store assets. Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
     <a href="https://github.com/EKramer567/Quadcopter-Simulator">Quadcopter Simulator Repository</a><br><br>
                                                    
 Before I move on to my next project, I want to fix one bug that I've been trying to fix for a while: if the copter's Yaw goes near 180 degrees relative to its starting rotation, <i>the PID balancing makes the copter flip back toward zero degrees</i>. I think I will also mess around with the terrain tool and maybe get some free tree assets to put in there just to make it look a bit better. Eventually I want to figure out how to allow the use of WebVR on these pages.
