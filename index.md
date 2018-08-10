@@ -56,7 +56,7 @@ Before I move on to my next project, I want to fix one bug that I've been trying
 <div class ="centerAlignObject">
     <h1>Hero Landing!</h1>
     <img src="HLscreenshot.png" width="300" height="475"><br>
-<a href="https://play.google.com/store/apps/details?id=com.EKramer.HeroEntranceTraining" class="button">Google Play</a>
+<a href="https://play.google.com/store/apps/details?id=com.EKramer.HeroEntranceTraining" class="button">Go to Google Play Page</a>
 </div>
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
