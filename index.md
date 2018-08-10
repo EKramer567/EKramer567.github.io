@@ -50,7 +50,7 @@ Before I move on to my next project, I'm going to add keyboard controls for the 
 ---
 
 <div class ="centerAlignObject">
-    <h1>Hero Landing!</h1><br>
+    <h1>Hero Landing!</h1>
     <img src="HLscreenshot.png" width="300" height="475"><br>
 <a href="https://play.google.com/store/apps/details?id=com.EKramer.HeroEntranceTraining" class="button">Google Play</a>
 </div>
