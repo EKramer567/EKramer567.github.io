@@ -27,7 +27,6 @@ img.autoscale{
     You can see the repository for this site by clicking the "View on GitHub" button above!
     <br><br>
     Below is a compilation of projects I have completed and some I am currently working on.
-    I'm planning to put a lot of other small projects up here in the next few weeks.
     <br><br>
     Contact info:<br>
     ekramer567@gmail.com<br>
@@ -35,6 +34,24 @@ img.autoscale{
     </p>
 </div>
 
+<div class ="centerAlignObject">
+    <h1>Hippo Soccer Royale</h1>
+    <img src="HippoSoccerRoyale_Alpha_Pic.jpg"><br>
+<a href="/assets/unity/HippoRoyale_Game/index.html" class="button">Play</a>
+</div>
+
+<div style="background-color:#444444; padding:10px;"> 
+<p align="center">
+    Hippo Royale (working title) is a work-in-progress. It is a whimsical little minigame loosely inspired by the classic tabletop game "Hungry Hungry Hippos", except the player is a cute tiny hippo knocking marbles into their goal while preventing others from scoring in theirs.
+	I plan to add UI, AI computer players, a highscores board, and a lot of polish (in the form of asset store props, particle effects, sound, and shader effects).
+	Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
+    <a href="https://github.com/EKramer567/HippoSoccerRoyale">Hippo Royale Repository</a><br><br>
+                                                   
+I may come back to this project at a later date to clean it up and polish it, but I made this several years ago.<br>
+</p>
+</div>
+
+---
 ---
 
 <div class ="centerAlignObject">
@@ -48,8 +65,7 @@ img.autoscale{
     This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. I made this with Unity using C#, and no plugins or asset store assets. Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
     <a href="https://github.com/EKramer567/Quadcopter-Simulator">Quadcopter Simulator Repository</a><br><br>
                                                    
-Before I move on to my next project, I want to fix one bug that I've been trying to fix for a while: if the copter's Yaw goes near 180 degrees relative to its starting rotation, <i>the PID balancing makes the copter flip back toward zero degrees</i>. If you have an idea what's causing that, I'm open to suggestions.<br>
-I think I will also mess around with the terrain tool and maybe get some free environment object assets to put in there just to make it look better. Eventually I want to figure out how to allow the use of WebVR, but that might be another project.
+I may come back to this project at a later date to clean it up and polish it, but I made this several years ago.<br>
 </p>
 </div>
   
@@ -64,6 +80,7 @@ I think I will also mess around with the terrain tool and maybe get some free en
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
 <i>Hero Landing!</i> is a small mobile game that I completed and published to the Google Play Store myself. I made this with Unity using C#. I used plugins for ads and microtransactions, and SFX/Music from the asset store. I chose to keep its repository private, since it is a monetized published game. If you'd like to see some snippets of the code that went in to <i>Hero Landing!</i>, please email me and I can get those for you.
+Note, this is an old project of mine that has since fallen off the app store. I do still have the project and I could put it back up (I still have the game on my phone, actually), but I'm prioritizing newer projects at the moment.
 </p>
 </div>
   
