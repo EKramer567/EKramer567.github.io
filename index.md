@@ -34,7 +34,7 @@ img.autoscale{
     </p>
 </div>
 
-<div class ="centerAlignObject">
+/*<div class ="centerAlignObject">
     <h1>Hippo Soccer Royale</h1>
     <img src="HippoSoccerRoyale_Alpha_Pic.png"><br>
 <a href="/assets/unity/HippoRoyale_Game/index.html" class="button">Play</a>
@@ -47,7 +47,7 @@ img.autoscale{
 	Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
     <a href="https://github.com/EKramer567/HippoSoccerRoyale">Hippo Royale Repository</a><br><br><br>
 </p>
-</div>
+</div>*/
 
 ---
 ---
