@@ -33,13 +33,6 @@ img.autoscale{
     LinkedIn: <a href="https://www.linkedin.com/in/ekramer567">www.linkedin.com/in/ekramer567</a>
     </p>
 </div>
-
-<div class ="centerAlignObject">
-    <h1>Hippo Soccer Royale</h1>
-    <img src="HippoSoccerRoyale_Alpha_Pic.png"><br>
-<a href="/assets/unity/HippoRoyale_Game/index.html" class="button">Play</a>
-</div>
-
 ---
 ---
 
