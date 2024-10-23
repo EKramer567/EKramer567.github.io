@@ -89,6 +89,10 @@
       var script = document.createElement("script");
       script.src = loaderUrl;
       script.onload = () => {
+		config['webglContextAttributes'] = {
+			preserveDrawingBuffer: true, //Add this line to preserve the Camera.clearFlags setting
+			powerPreference: {{{ WEBGL_POWER_PREFERENCE }}} //Add this line to preserve the Power Preference Player setting
+		};
         createUnityInstance(canvas, config, (progress) => {
           progressBarFull.style.width = 100 * progress + "%";
         }).then((unityInstance) => {
