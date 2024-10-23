@@ -42,11 +42,10 @@ img.autoscale{
 
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
-    Hippo Royale (working title) is a work-in-progress. It is a whimsical little minigame loosely inspired by the classic tabletop game "Hungry Hungry Hippos", except the player is a cute tiny hippo knocking marbles into their goal while preventing others from scoring in theirs.<br>
-	I plan to add UI, AI computer players, a highscores board, and a lot of polish (in the form of asset store props, particle effects, sound, and shader effects).<br>
-	Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
+    Hippo Royale (working title) is a work-in-progress that I'm actively working on. It is a whimsical little minigame loosely inspired by the classic tabletop game "Hungry Hungry Hippos", except the player is a cute tiny hippo knocking marbles into their goal while preventing others from scoring in theirs.<br>
+	I plan to add Menus, UI, AI computer players, a highscores board, and a lot of polish (in the form of asset store props, particle effects, sound, and shader effects).<br>
+	Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here:<br>
     <a href="https://github.com/EKramer567/HippoSoccerRoyale">Hippo Royale Repository</a><br>
-	Note that I'm working on this <i>as you're reading this</i>, I'm currently trying to get this game to display correctly in the browser.
 </p>
 </div>
 
@@ -61,10 +60,10 @@ img.autoscale{
 
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
-    This is my attempt at a quadcopter simulator, using a USB/Bluetooth controller. I made this with Unity using C#, and no plugins or asset store assets. Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
+    This is my attempt at a quadcopter simulator. I made this with Unity using C#, and no plugins or asset store assets. Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here: 
     <a href="https://github.com/EKramer567/Quadcopter-Simulator">Quadcopter Simulator Repository</a><br><br>
                                                    
-I may come back to this project at a later date to clean it up and polish it, but I made this several years ago.<br>
+I made this several years ago, but I may come back to this project at a later date to clean it up and polish it.<br>
 </p>
 </div>
   
