@@ -42,7 +42,7 @@ img.autoscale{
 
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
-    Hippo Soccer Royale (working title) is a work-in-progress that I'm actively working on. It is a whimsical little minigame loosely inspired by the classic tabletop game "Hungry Hungry Hippos", except the player is a cute tiny hippo knocking marbles into their goal while preventing others from scoring in theirs.<br>
+    Hippo Soccer Royale (working title) is a work-in-progress that I'm actively working on (quite possibly as you're reading this). It is a whimsical little minigame loosely inspired by the classic tabletop game "Hungry Hungry Hippos", except the player is a cute tiny hippo knocking marbles into their goal while preventing others from scoring in theirs.<br>
 	I plan to add Menus, UI, AI computer players, a highscores board, and a lot of polish (in the form of asset store props, particle effects, sound, and shader effects).<br>
 	Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here:<br>
     <a href="https://github.com/EKramer567/HippoSoccerRoyale">Hippo Royale Repository</a><br>
