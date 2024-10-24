@@ -40,7 +40,7 @@ img.autoscale{
 <div class ="centerAlignObject">
     <h1>Hippo Soccer Royale</h1>
     <img src="HippoSoccerRoyaleAlpha_Pic.PNG"><br>
-<a href="/assets/unity/HippoRoyale_Build_II/index.html" class="button">Play</a>
+<a href="/assets/unity/HippoRoyale_Build/index.html" class="button">Play</a>
 </div>
 
 <div style="background-color:#444444; padding:10px;"> 
@@ -49,7 +49,7 @@ img.autoscale{
 	I plan to add Menus, UI, AI computer players, a highscores board, and a lot of polish (in the form of asset store props, particle effects, sound, and shader effects).<br><br>
 	Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here:<br>
     <a href="https://github.com/EKramer567/HippoSoccerRoyale">Hippo Royale Repository</a><br>
-	WASD to control, or it should work with a controller (does not yet work on mobile)
+	WASD to control, or it should work with a controller.
 </p>
 </div>
 
