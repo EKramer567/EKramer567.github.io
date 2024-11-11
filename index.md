@@ -39,7 +39,7 @@ img.autoscale{
 
 <div class ="centerAlignObject">
     <h1>Hippo Soccer Royale</h1>
-    <img src="HippoSoccerRoyale_Pic"><br>
+    <img src="HippoSoccerRoyale_Pic.PNG"><br>
 <a href="/assets/unity/HippoRoyale_Build_0.1.0.0/index.html" class="button">Play</a>
 </div>
 
