@@ -39,17 +39,17 @@ img.autoscale{
 
 <div class ="centerAlignObject">
     <h1>Hippo Soccer Royale</h1>
-    <img src="HippoSoccerRoyaleAlpha_Pic.PNG"><br>
-<a href="/assets/unity/HippoRoyale_Build_0.0.0.6/index.html" class="button">Play</a>
+    <img src="HippoSoccerRoyale_Pic"><br>
+<a href="/assets/unity/HippoRoyale_Build_0.1.0.0/index.html" class="button">Play</a>
 </div>
 
 <div style="background-color:#444444; padding:10px;"> 
 <p align="center">
-    Hippo Soccer Royale (working title) is a work-in-progress that I'm actively working on (quite possibly as you're reading this). It is a whimsical little minigame loosely inspired by the classic tabletop game "Hungry Hungry Hippos", except the player is a cute tiny hippo knocking marbles into their goal while preventing others from scoring in theirs.<br>
-	I plan to add Menus, UI, AI computer players, a highscores board, and a lot of polish (in the form of asset store props, particle effects, sound, and shader effects).<br><br>
+    Hippo Soccer Royale is a whimsical little minigame loosely inspired by the classic tabletop game "Hungry Hungry Hippos" and Mario Party minigames, except with cute tiny hippos running around on the field knocking marbles into their score zone.<br>
+	Features AI computer players and a highscores board. Feel free to play, and leave a highscore entry if you have time (game takes only 1 minute to play).<br><br>
 	Making this playable in a browser window required building it in WebGL form and pushing the build to the repository for this site. You can find this project on my github here:<br>
     <a href="https://github.com/EKramer567/HippoSoccerRoyale">Hippo Royale Repository</a><br>
-	WASD to control, or it should work with a controller.
+	WASD or left-stick on controller to move, Space or south-button to "Kick" a marble.
 </p>
 </div>
 
