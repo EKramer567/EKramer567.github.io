@@ -38,6 +38,24 @@ img.autoscale{
 ---
 
 <div class ="centerAlignObject">
+    <h1>Beasts of Kindred</h1>
+    <img src="BeastsOfKindredgif.gif"><br>
+</div>
+
+<div style="background-color:#444444; padding:10px;"> 
+<p align="center">
+    Beasts of Kindred is my first dive into Unreal Engine, and it's an ongoing project early in development.
+	I'm currently working on making the player controls tight and satisfying, while also learning a lot about the visual Blueprints programming language.<br><br>
+	Unlike most of my other projects, this Unreal game can't be played in the browser (most recent versions of Unreal do not support it). You can find this project on my github here:<br>
+    <a href="https://github.com/EKramer567/Beasts_Of_Kindred">Beasts Of Kindred Repository</a><br>
+	WASD/Controller to move, Left click/Left face button to attack, Space/Bottom face button to dodge.
+</p>
+</div>
+
+---
+---
+
+<div class ="centerAlignObject">
     <h1>Hippo Soccer Royale</h1>
     <img src="HippoSoccerRoyale_Pic.PNG"><br>
 <a href="/assets/unity/HippoRoyale_Build_0.1.0.0/index.html" class="button">Play</a>
